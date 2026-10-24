@@ -1,0 +1,8 @@
+﻿.venv/
+.venv-1/
+.env
+__pycache__/
+*.pyc
+debug.log
+temp_resume.pdf
+*.pdf
